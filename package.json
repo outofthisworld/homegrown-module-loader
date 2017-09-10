@@ -1,0 +1,20 @@
+{
+    "name": "MLoader",
+    "version": "1.0.0",
+    "description": "",
+    "main": "test.js",
+    "scripts": {
+        "start": "node test",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/outofthisworld/homegrown-module-loader.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/outofthisworld/homegrown-module-loader/issues"
+    },
+    "homepage": "https://github.com/outofthisworld/homegrown-module-loader#readme"
+}
